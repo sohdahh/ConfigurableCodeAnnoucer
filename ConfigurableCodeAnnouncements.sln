@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurableCodeAnnouncements", "ConfigurableCodeAnnouncements.csproj", "{1A079B81-9BB8-4B08-98FB-D1DB339A5C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A079B81-9BB8-4B08-98FB-D1DB339A5C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A079B81-9BB8-4B08-98FB-D1DB339A5C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A079B81-9BB8-4B08-98FB-D1DB339A5C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A079B81-9BB8-4B08-98FB-D1DB339A5C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE9B9DE-F0F1-4029-9DE7-149DD3432525}
+	EndGlobalSection
+EndGlobal
